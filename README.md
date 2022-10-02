@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dikshya Manadhar</h1>
+<h1 align="center">Hi 👋, I'm Dikshya Manandhar</h1>
 <h3 align="center">I am cute and depressed, Please help me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anah0852&label=Profile%20views&color=0e75b6&style=flat" alt="anah0852" /> </p>
